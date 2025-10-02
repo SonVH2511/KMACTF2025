@@ -492,7 +492,7 @@ Video poc run script
 <video width="640" height="360" controls>
 
   <source src="image/IDA-runmem.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
+  Trình duyệt của bạn không hỗ trợ thẻ video. xem video tại image/IDA-runmem.mp4
 </video>
 
 lúc này giải ra
