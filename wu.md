@@ -535,6 +535,8 @@ Hẹ hẹ xin lỗi a Sơn vì bảo solve ngày hôm sau, nma em lười wu qu�
 
 #### Simple
 
+Bài này không nhìn ra được antidebug nên trong giải không làm được(do gà).
+
 ```python
 
 KEY = bytes([
