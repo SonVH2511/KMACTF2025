@@ -885,3 +885,10 @@ if __name__ == "__main__":
 ```
 
 ![alt text](image/image-8.png)
+### Hi vọng WRITEUP này giúp ích cho các bạn :D
+```
+from KCSC
+Author: SonVH
+```
+
+```
